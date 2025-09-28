@@ -53,7 +53,7 @@ emotion-detection/
 ```
 ## 📸 Screenshots
 
-(Add screenshots of your Streamlit UI here)
+![Emotion detection app](https://github.com/dhruvkm35/emotion-detection-NLP/blob/275218f70d35171b137ee541ef4a837438351010/localhost_8501_.jpg)
 
 ---
 ## 🔮 Future Improvements
